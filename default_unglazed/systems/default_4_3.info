@@ -1,9 +1,9 @@
 {
    "width":1920,
-   "height":1080,
-   "top":14,
+   "height":240,
+   "top":8,
    "left":250,
-   "bottom":16,
+   "bottom":8,
    "right":265,
    "opacity":1.0000000,
    "messagex":0.220000,
